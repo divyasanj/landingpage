@@ -1,0 +1,67 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+.header{
+    background-color:black;
+    color:white;
+    padding:10px;
+}
+li{
+    display:inline;
+}
+ul{
+    text-align: center;
+    margin-top:5px;
+    color:gray;
+}
+li:hover{
+    color:white;
+    cursor: pointer;
+}
+.box{
+    border-style:solid;
+    border-width: 2px;
+    border-color: black;
+    width:220px;
+    display:inline-block;
+}
+.product{
+    text-align: center;
+    margin-top:15px;
+}
+.box:hover{
+    background-color: black;
+    color:white;
+}
+.cont{
+    background-color: black;
+    color:white;
+    margin-top:15px;
+    text-align: center;
+    padding:20px;
+}
+
+.one{
+    background-color: yellow; 
+    color:black; 
+    display:inline-block;
+    margin-top: 10px;
+
+}
+.one:hover{
+    background-color: blue;
+    cursor: pointer;
+}
+.two{
+    background-color:yellow; 
+    color:black; 
+    display:inline-block; 
+    cursor:pointer;
+}
+ .broo{
+    margin-top: 2%;
+    padding: 2%;
+    background-color: lightgray;
+    
+ }
